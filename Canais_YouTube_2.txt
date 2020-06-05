@@ -1,0 +1,3 @@
+Linux e Containers LinuxTips=https://www.youtube.com/user/linuxtipscanal
+Linux - DioLinux=https://www.youtube.com/user/Diolinux
+Golang -Ellen Körbes https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ

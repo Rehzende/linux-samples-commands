@@ -1,0 +1,89 @@
+1-pwd
+Encontra o caminho para o diretório atual
+
+2-cd
+Mudar de diretório
+
+3-ls
+Visualizar conteúdos de diretórios
+
+4-cat
+Visualizar conteúdo de um arquivo
+
+5-cp
+Copiar arquivo do diretório atual
+
+6-mv
+Mover arquivos
+
+7-mkdir
+Criar um novo diretório
+
+8-rmdir
+Apagar um diretório vazio
+
+9-rm
+Apagar um diretório com conteúdo
+
+10-touch
+Criar novos arquivos em branco
+
+11-locate
+Localizar um arquivo
+
+12-find
+Procurar arquivos
+
+13-grep
+Procura arquivo por um padrão de texto
+
+14-sudo
+Permissão para executar tarefas root ou administrativas
+
+15-df
+Responde a quantidade de espaço em disco usado no sistema
+
+16-du
+Verificar espaço de um arquivo ou diretório
+
+17-head
+Visualizar as primeiras linhas de um arquivo
+
+18-tail
+Exibir as últimas 10 linhas de um arquivo
+
+19-diff
+Comparar o conteúdo de dois arquivos
+
+20-tar
+Arquivar múltiplos arquivos
+
+21-chmod
+Ler, escrever e executar permissões de arquivos e diretórios
+
+22-chown
+Mudar e transferir a propriedade de um arquivo para um usuário
+
+23-jobs
+Exibir todos os trabalhos e status de desenvolvimento
+
+24-kill
+Matar um processo
+
+25-ping
+Verificar status da conexão do seu servidor
+
+26-wget
+Baixar arquivos da internet
+
+27-uname
+Exibir informações detalhadas do sistema
+
+28-top
+Exibir lista de processos em execução
+
+29-history
+Rever histórico de comandos utilizados
+
+30-man
+Exibir manual de instruções de comando
